@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-up" width="28" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="maze_walls.tsx"/>
+ <tileset firstgid="29" source="tiles_extra.tsx"/>
+ <layer id="1" name="walls" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzNVmtrwzAMVLtljL7Guqz0W///v1wCMdyUO0V2DZtAkId9J1/Ocsx4vE/52pgHgRnFrmFOif0TfOcpL3D95vJCxj3DNyw5xwgchfubjOvFZ8lnEZ/yxRfg4Lo8Nq6zPLsKzINt+2KwtXajuy61+DX7mNf9Yevvjn7AurfqKtzMS/P9J/D5enGO145hDuS9x5z5MnrW+lPF3n7vM1V3rT8VFvKNxjVs8afXtmiAfKrWkcxj/sxo6/WMNKwJv36mJ45hGh6nfFnysWS5PwE20xb7TtQnvfYqmAdUX436JEaGj4XiQw+gtzJnDNtTZR7iRv70+1n1YOztW730P/kz6pkqWb0ZvyivIi6rg3mylo9FzXvPh+cR2+9beql1Miw8/6IzMNs/o7Mve/71DLUfsFe25ongKr+0/D/6ULh/xef7XC++TP/syedxb7b+1vcOfAr3B9XhDr8=
+  </data>
+ </layer>
+ <layer id="2" name="food" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzdVUEOwCAI8yP7/ze9LyBtJdqNxMRIbctkOoZPPOLY0YvmKs5d7/29srUOvcwDsifCoGeP6ClcDA96trdyiG+mP1Wuzv5kMeg+1jvDh+Qr3giPBsMbzXfDVU99X9B/4EZ9Sj2InnN/KrV+Ta/qOaUnM39VnsGqmA691ZvVORTPTDjdL3/XO3l/nowJNZ4baw==
+  </data>
+ </layer>
+ <layer id="3" name="collision" width="28" height="32" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzlj1sKAzEIRV1K9r/K/g5y1aOGlqGCRPS+YqbrLLtbE86Gex6vn30r3Bv9DO4yv5O0uivtiqMwNA/xm2h1dCrer28kN9XcaEU61Y5oVRjK62bv6JF7pZvhaRFdNUc7r0t4E7+otn6Z5uRGvf2u8ot4alaZsgwEE+nSHLSIbjXTfpufqs5dzVG+6t7BTjE3/L5VKsdz3jbxMLvz53/3U9gbfn4X9Q0/1R/mUToB
+  </data>
+ </layer>
+</map>
